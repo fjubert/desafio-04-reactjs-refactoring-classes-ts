@@ -1,28 +1,89 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
-      "price": "19.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "editingFood": {
+        "editingFood": {
+          "editingFood": {
+            "editingFood": {
+              "editingFood": {
+                "editingFood": {
+                  "id": 3,
+                  "name": "A la Camarón",
+                  "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
+                  "price": "30",
+                  "available": true,
+                  "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+                },
+                "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+                "name": "A la Camarón",
+                "price": "20",
+                "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
+                "id": 3
+              },
+              "food": {
+                "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+                "name": "A la Camarón",
+                "price": "30",
+                "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares."
+              },
+              "id": 3
+            },
+            "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+            "name": "Moda Italiana",
+            "price": "20",
+            "description": "Um macarrão a moda italiana . mama mia che",
+            "id": 3
+          },
+          "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+          "name": "Moda Italiana",
+          "price": "40",
+          "description": "Um macarrão a moda italiana . mama mia che",
+          "id": 3
+        },
+        "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+        "name": "Moda Italiana",
+        "price": "40",
+        "description": "Um macarrão a moda italiana . mama mia che",
+        "id": 3,
+        "available": true
+      },
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Moda Italiana",
+      "price": "30",
+      "description": "Um macarrão a moda italiana . mama mia che",
+      "id": 3
     },
     {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
-    },
-    {
-      "id": 3,
-      "name": "A la Camarón",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Franguin Show",
+      "price": "10.90",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
       "available": false,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "id": 4
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Macarrão Manero",
+      "price": "20",
+      "description": "Um macarrão bem maneiro pra rapaziada que curte uma larica doida.",
+      "available": true,
+      "id": 5
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Moda Caralha",
+      "price": "32",
+      "description": "Prato do chefe feito a moda caralha",
+      "available": true,
+      "id": 6
+    },
+    {
+      "image": "teste",
+      "name": "Prato maravilhoso ",
+      "price": "20",
+      "description": "Prato maravilhoso feito de caranguejo, areia e sargaço",
+      "available": true,
+      "id": 7
     }
   ]
 }
